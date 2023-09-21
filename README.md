@@ -2,7 +2,7 @@
 
 # PNW2023
 
-This repository contains information for a presentation on September 21, 2023, to the PNW Groundwater Modeling Group.
+This repository contains information for a presentation on September 21, 2023, to the PNW Groundwater Modeling Interest Group.
 
 
 Squeezing Water from a Rock: Unveiling Recent Groundwater Modeling Advances with MODFLOW 6 
